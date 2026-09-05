@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/791527ff-a683-45ec-8d99-02e4799a347c/resourceGroups/xgol/providers/Microsoft.Web/sites/xgol",
+    "appService.deploySubpath": "."
+}
